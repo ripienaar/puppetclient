@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/ripienaar/puppet/puppetclient"
+	"github.com/ripienaar/puppetclient/puppetclient"
 )
 
 func summarize(r puppetclient.Stats) {

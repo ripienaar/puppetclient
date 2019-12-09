@@ -1,4 +1,4 @@
-module github.com/ripienaar/puppet
+module github.com/ripienaar/puppetclient
 
 go 1.13
 
