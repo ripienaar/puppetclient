@@ -1,4 +1,4 @@
-## Puppet agent client library
+## Puppet agent client library
 
 This is a Golang package to access the Puppet agent on a Choria Network.
 
